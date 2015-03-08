@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MonitorPowerToggle")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Monitor Power Toggle")]
+[assembly: AssemblyDescription("Console application that toggles the power to a monitor")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MonitorPowerToggle")]
+[assembly: AssemblyProduct("Monitor Power Toggle")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
