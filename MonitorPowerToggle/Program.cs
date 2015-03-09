@@ -14,7 +14,7 @@ namespace MonitorPowerToggle
 
             if (arg == null)
             {
-                System.Console.WriteLine("Please enter a valid argument");
+                System.Console.WriteLine("Please enter a valid argument.");
                 Console.Read();
                 return;
             }
